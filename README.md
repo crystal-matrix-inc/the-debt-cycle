@@ -3,8 +3,8 @@
 'The Debt Cycle' is a digital card game about freeing yourself from the debt loop! Play with up to 3 AI opponents who will try to pull you down like crabs in a bucket. Made by [pranavcl](https://github.com/pranavcl), [jrrom](https://github.com/jrrom) and [VJ3](https://github.com/vj031206).
 
     Lead Programmer: pranavcl
-    Design Head: VJ3
     Programmer / Music: jrrom
+    Design Head: VJ3
 
 ---
 
