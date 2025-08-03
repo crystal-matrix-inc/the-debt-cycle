@@ -1,0 +1,86 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-Wextra",
+      "-Wmissing-prototypes",
+      "-Wstrict-prototypes",
+      "-Iraylib/src",
+      "-o",
+      "build/the-debt-cycle",
+      "cards.c"
+    ],
+    "directory": "/home/jrrom/Projects/the-debt-cycle",
+    "file": "/home/jrrom/Projects/the-debt-cycle/cards.c",
+    "output": "/home/jrrom/Projects/the-debt-cycle/build/the-debt-cycle"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-Wextra",
+      "-Wmissing-prototypes",
+      "-Wstrict-prototypes",
+      "-Iraylib/src",
+      "-o",
+      "build/the-debt-cycle",
+      "game.c"
+    ],
+    "directory": "/home/jrrom/Projects/the-debt-cycle",
+    "file": "/home/jrrom/Projects/the-debt-cycle/game.c",
+    "output": "/home/jrrom/Projects/the-debt-cycle/build/the-debt-cycle"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-Wextra",
+      "-Wmissing-prototypes",
+      "-Wstrict-prototypes",
+      "-Iraylib/src",
+      "-o",
+      "build/the-debt-cycle",
+      "main.c"
+    ],
+    "directory": "/home/jrrom/Projects/the-debt-cycle",
+    "file": "/home/jrrom/Projects/the-debt-cycle/main.c",
+    "output": "/home/jrrom/Projects/the-debt-cycle/build/the-debt-cycle"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-Wextra",
+      "-Wmissing-prototypes",
+      "-Wstrict-prototypes",
+      "-Iraylib/src",
+      "-o",
+      "build/the-debt-cycle",
+      "menu.c"
+    ],
+    "directory": "/home/jrrom/Projects/the-debt-cycle",
+    "file": "/home/jrrom/Projects/the-debt-cycle/menu.c",
+    "output": "/home/jrrom/Projects/the-debt-cycle/build/the-debt-cycle"
+  }
+]
